@@ -4,9 +4,9 @@ function letfunc(){
         let a=10;
         console.log(a);
     }
-    console.log(a);//ReferenceError: a is not defined
+    //console.log(a);//ReferenceError: a is not defined
 }
-console.log(a);//ReferenceError: a is not defined
+//console.log(a);//ReferenceError: a is not defined
 
 // 1. Block Scope
 // Variables declared with let are only accessible within the block { } where they are defined 
