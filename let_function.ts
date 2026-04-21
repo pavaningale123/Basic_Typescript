@@ -4,7 +4,7 @@ function letfunc(){
         let a=10;
         console.log(a);
     }
-    //console.log(a);//ReferenceError: a is not defined
+    // console.log(a);//ReferenceError: a is not defined
 }
 //console.log(a);//ReferenceError: a is not defined
 
